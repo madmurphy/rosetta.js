@@ -8,7 +8,7 @@
 |*|
 |*|  November 12, 2014
 |*|
-|*|  https://developer.mozilla.org/en-US/docs/Web/API/document.cookie
+|*|  https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Rosetta
 |*|  https://developer.mozilla.org/User:fusionchess
 |*|
 |*|  This framework is released under the GNU Public License, version 3 or later.
