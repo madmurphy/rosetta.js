@@ -1,0 +1,6 @@
+:: rosetta.js ::
+
+A possible, extensible collection of compilers to native ECMAScript.
+
+This framework is released under the GNU Public License, version 3 or later.
+http://www.gnu.org/licenses/gpl-3.0.html
