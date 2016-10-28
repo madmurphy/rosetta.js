@@ -1,0 +1,19 @@
+{
+  "name": "rosetta.js",
+  "version": "1.0.0",
+  "description": "A possible, extensible collection of compilers to native ECMAScript.",
+  "main": "rosetta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madmurphy/rosetta.js.git"
+  },
+  "author": "madmurphy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/madmurphy/rosetta.js/issues"
+  },
+  "homepage": "https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Rosetta"
+}
